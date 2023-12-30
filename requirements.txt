@@ -4,4 +4,8 @@ setuptools~=65.5.1
 pandas
 numpy
 seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
 -e .
