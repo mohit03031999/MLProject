@@ -16,7 +16,9 @@ This repository houses an end-to-end machine learning application designed to pr
 - AdaBoost
 
 ***Rigorous Model Selection***: Utilizes cross-validation and performance metrics (e.g., RMSE, R-squared) to select the best-performing model.
+
 ***Interpretability and Explainability***: Incorporates feature importance analysis to provide insights into factors influencing predictions.
+
 ***Scalable Flask Deployment***: Facilitates integration with existing workflows and enables easy prediction access.
 
 ## Setup and Usage
