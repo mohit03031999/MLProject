@@ -24,12 +24,25 @@ This repository houses an end-to-end machine learning application designed to pr
 ## Setup and Usage
 
 ***Clone the repository:***
-git clone https://github.com/<your-username>/student-performance-prediction
 
-***Install dependencies:***
-pip install -r requirements.txt
+1. **Clone the Repository**
+   - Open your terminal or command prompt.
+   - Navigate to the directory where you want to install the project.
+   - Run the following command to clone the GitHub repository:
+     ```
+     git clone https://github.com/<your-username>/student-performance-prediction
+     ```
 
-***Configure settings:(e.g., data paths, port number).***
-Run the Flask app:
-python app.py
-ADD SOmething
+2. **Install Dependencies**
+   - Navigate to the project directory:
+     ```
+     cd [project_directory]
+     ```
+   - Run the following command to install project dependencies:
+     ```
+     pip install -r requirements.txt
+     ```
+
+3. **Configure settings:(e.g., data paths, port number).**
+  - Run the Flask app:
+  - python app.py
